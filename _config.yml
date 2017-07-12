@@ -1,3 +1,7 @@
 theme: jekyll-theme-minimal
 title: Matthew Brower
 markdown: kramdown
+
+
+gems:
+  - jekyll-sitemap
