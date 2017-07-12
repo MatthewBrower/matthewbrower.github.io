@@ -3,5 +3,4 @@ title: Matthew Brower
 markdown: kramdown
 
 
-gems:
-  - jekyll-sitemap
+gems: jekyll-sitemap
