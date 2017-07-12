@@ -1,6 +1,6 @@
 theme: jekyll-theme-minimal
 title: Matthew Brower
 markdown: kramdown
-
+permalink: /blog/:year/:month/:day/:title
 
 gems: jekyll-sitemap
