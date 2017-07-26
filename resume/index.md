@@ -7,7 +7,7 @@ Matthew Brower
 <div id="webaddress">
 <a href="mailto:matthew.a.brower@gmail.com">Email</a>
 | <a href="https://www.linkedin.com/in/matthewabrower">LinkedIn</a>
-| <a href="https://github.com/matthewbrower">GitGub</a>
+| <a href="https://github.com/matthewbrower">GitHub</a>
 </div>
 
 ---
