@@ -13,7 +13,7 @@ Matthew Brower
 ---
 
 ## Overview
-Brand Marketer turned Data Scientist.  5 total years of experience delivering custom analytics projects & data products to Fortune 500 food manufacturers & major grocery retailers.  Leverages expertise in interactive data visualization, data mining, and machine learning - these skills have been developed via self-study and through on-the-job experience. 
+Brand Marketer turned Data Scientist.  5+ years experience delivering custom analysis & data products to clients in CPG/Retail.  Expertise in interactive data visualization, data mining, and machine learning.
 
 ***
 
