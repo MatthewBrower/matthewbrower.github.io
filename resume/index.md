@@ -12,6 +12,7 @@ Matthew Brower
 
 ## Overview
 Brand Marketer turned Data Scientist.  5 total years of experience delivering custom analytics projects & data products to Fortune 500 food manufacturers & major grocery retailers.  Leverages expertise in interactive data visualization, data mining, and machine learning - these skills have been developed via self-study and through on-the-job experience. 
+___
 
 ## Professional Experience
 
@@ -48,26 +49,19 @@ __Brand Management Intern, Jif Peanut Butter__, Summer 2010
 - Led the redesign process for a website and promotional media revitalization project
 - Designed a prototype client relationship management system in an effort to reduce annual software costs
 
+___
+
 ## Technical Profile
 
 ### Programming Languages:
 
-`R`
-`Python`
-`SQL`
-`XML`
-`HTML`
-`Bash`
+`R`, `Python`, `SQL`, `XML`, `HTML`, `Bash`
 
 ### Software / Tools:
 
-`Tableau`
-`JMP/SAS`
-`SQL Server`
-`Git`
-`AWS EC2`
-`Azure ML Studio`
-`MS Office`
+`Tableau`, `JMP/SAS`, `SQL Server`, `Git`, `AWS EC2`, `Azure ML Studio`, `MS Office`
+
+___
 
 ## Education
 __Miami University (Oxford, Ohio)__, 2009 - 2013
@@ -75,6 +69,8 @@ __Miami University (Oxford, Ohio)__, 2009 - 2013
 - BS; Marketing & Decision Science (GPA: 3.51)
 - University Honors Program; Business Honors Program
 - Founded + led the Miami University Club Table Tennis Team
+
+___
 
 ## Community
 #### Orrville High School Alumni Association
