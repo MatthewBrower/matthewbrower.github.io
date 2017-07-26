@@ -13,14 +13,16 @@ Matthew Brower
 ---
 
 ## Overview
-Brand Marketer turned Data Scientist.  5+ years experience delivering custom analysis & data products to clients in CPG/Retail.  Expertise in interactive data visualization, data mining, and machine learning.
+- Brand Marketer turned Data Scientist
+- 5+ years experience delivering custom analysis & data products to clients in CPG/Retail 
+- Expertise in interactive data visualization, data mining, and machine learning
 
 ***
 
 ## Professional Experience
 
 ### The J.M. Smucker Company (Orrville, OH)
-__Senior Data Analyst__, 2014 - Present
+__Senior Data Analyst__, _2014 - Present_
 
 - Created processes for the management & delivery of analytics projects for a new Advanced Analytics Center of Excellence
 - Presented findings & recommendations of analytics projects to audiences at top 10 US food retailers
@@ -28,26 +30,26 @@ __Senior Data Analyst__, 2014 - Present
 - Initiated recruiting relationships with key Universities & helped to establish an internal Data Science Community of Practice
 
 ### Nielsen (Cincinnati, OH)
-__Research Analyst (BASES)__, 2013 - 2014
+__Research Analyst (BASES)__, _2013 - 2014_
 
 - Delivered new product launch forecasts and consulting studies to multiple divisions of a Fortune 100 client
 - Created internal applications to increase analyst efficiency and improve company analytical capabilities
 - Led an internal research initiative that resulted in a 20 percent improvement in client forecast accuracy
 
 ### Nielsen (San Francisco, CA)
-__Research Analyst Intern__, Summer 2012
+__Research Analyst Intern__, _Summer 2012_
 
 - Created a new reporting tool to assist with transitioning clients to a newly-developed volumetric forecasting system
 - Developed strategic insights and designed slide templates for an international project with a leading financial services firm
 
 ### The J.M. Smucker Company (Orrville, OH)
-__Brand Management Intern, Jif Peanut Butter__, Summer 2011
+__Brand Management Intern, Jif Peanut Butter__, _Summer 2011_
 
 - Presented a competitive analysis of digital marketing in the Peanut Butter Category with recommendations for the Jif brand
 - Assessed the category impact of deep discounting by competitive national brands to further relationship with key retailers
 
 ### Jarrett Logistics Systems (Orrville, OH)
-__Brand Management Intern, Jif Peanut Butter__, Summer 2010
+__Brand Management Intern, Jif Peanut Butter__, _Summer 2010_
 
 - Led the redesign process for a website and promotional media revitalization project
 - Designed a prototype client relationship management system in an effort to reduce annual software costs
@@ -67,7 +69,7 @@ ___
 ___
 
 ## Education
-__Miami University (Oxford, Ohio)__, 2009 - 2013
+__Miami University (Oxford, Ohio)__, _2009 - 2013_
 
 - BS; Marketing & Decision Science (GPA: 3.51)
 - University Honors Program; Business Honors Program
@@ -77,12 +79,12 @@ ___
 
 ## Community
 ### Orrville High School Alumni Association
-__Board of Trustees Member__, 2014 - Present
+__Board of Trustees Member__, _2014 - Present_
 
 - Support development of annual strategy & support with technology-related projects
 
 ### Miami University Young Professionals Advisory Council
-__Council Member__, 2016 - Present
+__Council Member__, _2016 - Present_
 
 - Advise Business School faculty/administration on key initiatives in analytics-related education
 
