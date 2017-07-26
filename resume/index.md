@@ -15,7 +15,7 @@ Brand Marketer turned Data Scientist.  5 total years of experience delivering cu
 
 ## Professional Experience
 
-#### The J.M. Smucker Company (Orrville, OH)
+### The J.M. Smucker Company (Orrville, OH)
 __Senior Data Analyst__, 2014 - Present
 
 - Created processes for the management & delivery of analytics projects for a new Advanced Analytics Center of Excellence
@@ -23,26 +23,26 @@ __Senior Data Analyst__, 2014 - Present
 - Developed custom analytic techniques that led to insights creating over $3MM in incremental annual revenue
 - Initiated recruiting relationships with key Universities & helped to establish an internal Data Science Community of Practice
 
-#### Nielsen (Cincinnati, OH)
+### Nielsen (Cincinnati, OH)
 __Research Analyst (BASES)__, 2013 - 2014
 
 - Delivered new product launch forecasts and consulting studies to multiple divisions of a Fortune 100 client
 - Created internal applications to increase analyst efficiency and improve company analytical capabilities
 - Led an internal research initiative that resulted in a 20 percent improvement in client forecast accuracy
 
-#### Nielsen (San Francisco, CA)
+### Nielsen (San Francisco, CA)
 __Research Analyst Intern__, Summer 2012
 
 - Created a new reporting tool to assist with transitioning clients to a newly-developed volumetric forecasting system
 - Developed strategic insights and designed slide templates for an international project with a leading financial services firm
 
-#### The J.M. Smucker Company (Orrville, OH)
+### The J.M. Smucker Company (Orrville, OH)
 __Brand Management Intern, Jif Peanut Butter__, Summer 2011
 
 - Presented a competitive analysis of digital marketing in the Peanut Butter Category with recommendations for the Jif brand
 - Assessed the category impact of deep discounting by competitive national brands to further relationship with key retailers
 
-#### Jarrett Logistics Systems (Orrville, OH)
+### Jarrett Logistics Systems (Orrville, OH)
 __Brand Management Intern, Jif Peanut Butter__, Summer 2010
 
 - Led the redesign process for a website and promotional media revitalization project
@@ -50,7 +50,7 @@ __Brand Management Intern, Jif Peanut Butter__, Summer 2010
 
 ## Technical Profile
 
-#### Programming Languages:
+### Programming Languages:
 
 `R`
 `Python`
@@ -59,7 +59,7 @@ __Brand Management Intern, Jif Peanut Butter__, Summer 2010
 `HTML`
 `Bash`
 
-#### Software / Tools:
+### Software / Tools:
 
 `Tableau`
 `JMP/SAS`
