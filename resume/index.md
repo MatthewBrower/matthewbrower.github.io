@@ -10,9 +10,12 @@ Matthew Brower
 | <a href="https://github.com/matthewbrower">GitGub</a>
 </div>
 
+---
+
 ## Overview
 Brand Marketer turned Data Scientist.  5 total years of experience delivering custom analytics projects & data products to Fortune 500 food manufacturers & major grocery retailers.  Leverages expertise in interactive data visualization, data mining, and machine learning - these skills have been developed via self-study and through on-the-job experience. 
-___
+
+***
 
 ## Professional Experience
 
@@ -73,12 +76,12 @@ __Miami University (Oxford, Ohio)__, 2009 - 2013
 ___
 
 ## Community
-#### Orrville High School Alumni Association
+### Orrville High School Alumni Association
 __Board of Trustees Member__, 2014 - Present
 
 - Support development of annual strategy & support with technology-related projects
 
-#### Miami University Young Professionals Advisory Council
+### Miami University Young Professionals Advisory Council
 __Council Member__, 2016 - Present
 
 - Advise Business School faculty/administration on key initiatives in analytics-related education
