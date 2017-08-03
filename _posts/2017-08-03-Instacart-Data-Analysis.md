@@ -90,7 +90,7 @@ ggplot() +
   scale_y_continuous(labels = scales::percent)
 ```
 
-![](Hackathon_Analysis_files/figure-markdown_github/unnamed-chunk-2-1.png)
+![](img/Hackathon_Analysis_files/figure-markdown_github/unnamed-chunk-2-1.png)
 
 Another way to look at this is to quantify the cumulative probability a shopper has added a 'new' item to their basket as it grows in size. The chart below highlights an interesting finding - by the point one of our repeat shoppers has placed 15 items in their basket, it's almost 100% probable that one of those 15 items is new to that shopper.
 
@@ -106,7 +106,7 @@ ggplot() +
   scale_y_continuous(labels = scales::percent)
 ```
 
-![](Hackathon_Analysis_files/figure-markdown_github/unnamed-chunk-3-1.png)
+![](img/Hackathon_Analysis_files/figure-markdown_github/unnamed-chunk-3-1.png)
 
 The findings here are highly-dependent on our order count filtering from earlier: raising the filter from 10 previous tranactions to 15 or higher would pull this line downward & may drive a different conclusion.
 
