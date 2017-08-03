@@ -13,8 +13,8 @@ Matthew Brower
 ---
 
 ## Overview
-- Brand Marketer turned Data Scientist
-- 5+ years experience delivering custom analysis & data products to clients in CPG/Retail 
+- Data Scientist currently working in the CPG/Retail industry
+- 5+ years experience delivering custom analysis & data products to internal and external clients 
 - Expertise in interactive data visualization, data mining, and machine learning
 
 ***
@@ -73,7 +73,7 @@ __Miami University (Oxford, Ohio)__, _2009 - 2013_
 
 - BS; Marketing & Decision Science (GPA: 3.51)
 - University Honors Program; Business Honors Program
-- Founded + led the Miami University Club Table Tennis Team
+- Co-founded + led the Miami University Club Table Tennis Team
 
 ___
 
@@ -81,12 +81,12 @@ ___
 ### Orrville High School Alumni Association
 __Board of Trustees Member__, _2014 - Present_
 
-- Support development of annual strategy & support with technology-related projects
+- Supported development of annual strategy & support with technology-related projects
 
 ### Miami University Young Professionals Advisory Council
 __Council Member__, _2016 - Present_
 
-- Advise Business School faculty/administration on key initiatives in analytics-related education
+- Advised Business School faculty/administration on key initiatives in analytics-related education
 
 <!-- ### Footer
 
