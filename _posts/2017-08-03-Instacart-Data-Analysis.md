@@ -105,7 +105,7 @@ ggplot() +
        title = "When are new items a near-certainty in the basket?") +
   scale_y_continuous(labels = scales::percent)
 ```
-
+<img src="img/Hackathon_Analysis_files/figure-markdown_github/unnamed-chunk-3-1.png">
 ![](img/Hackathon_Analysis_files/figure-markdown_github/unnamed-chunk-3-1.png)
 
 The findings here are highly-dependent on our order count filtering from earlier: raising the filter from 10 previous tranactions to 15 or higher would pull this line downward & may drive a different conclusion.
