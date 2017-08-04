@@ -4,6 +4,7 @@ In May, Instacart released a portion of their [order history](https://www.instac
 Fortunately, our team was recently able to hold a 3 hour 'hackathon' to work with this data &amp; learn about its contents.   Due to time constraints I pursued a more descriptive analysis; my findings from this analysis (and my one slide presentation) are shown below:
 
 ---
+## Data Import + Wrangling
 
 I used elements of the `tidyverse` to wrangle and visualize this data.
 
@@ -43,11 +44,14 @@ Full_Dataset = Order_Products %>%
 Once I had a full dataset stored within one object in R, I was able to begin querying and investigating reorder habits.
 
 ---
+## Approach / Questions
 
 Although I explored a few extra questions during the hackathon itself, this post focuses on two of the more interesting ones:
 
 -   What's the relationship between repeat purchases (at the item level) and the order in which items were placed in the basket?
 -   At what point is it nearly certain that a first-time item is in someone's basket?
+
+## Considerations
 
 Many users in the data were still fairly new, and that can interfere with repeat purchasing questions. In addition, some orders had hundreds of items in the basket, and we weren't interested in studying super-large baskets. As a result, we limited baskets to only include:
 
@@ -62,6 +66,7 @@ Reorders = Full_Dataset %>%
   group_by(add_to_cart_order) %>% 
   summarise(Reordered = mean(reordered)) 
 ```
+## Some Preliminary Findings...
 
 I created a plot to show the proportion of items that were reordered based on the 'position' of the item in all baskets. For qualifying Instacart shoppers, ~75% of all items ordered are reorders, shown using the horizontal line. The earlier an item is added to a basket, the more likely it has been ordered in the past.
 
@@ -102,6 +107,7 @@ ggplot() +
 ```
 <img src="https://matthewbrower.github.io/img/Hackathon_Analysis_files/figure-markdown_github/unnamed-chunk-3-1.png">
 
+## Possible Outcomes
 Knowing Instacart's mission of shopper convenience, I would take these learnings and recommend adjustments to their suggestive selling algorithm:
 
 -   For shoppers early-on in their online trip, I believe 'convenience' can be maximized by recommending grocery staples and items that shopper has routinely purchased in the past.
