@@ -92,7 +92,9 @@ ggplot() +
 
 <img src="https://matthewbrower.github.io/img/Hackathon_Analysis_files/figure-markdown_github/unnamed-chunk-2-1.png">
 
-Another way to look at this is to quantify the cumulative probability a shopper has added a 'new' item to their basket as it grows in size. The chart below highlights an interesting finding - by the time one of our repeat shoppers has placed 15 items in their basket, it's almost 100% probable that one of those 15 items is new to that shopper.  The strength of this conclusion varies based on the filters applied above, but I still find this interesting and share some possible actions below.
+Another way to look at this is to quantify the cumulative probability a shopper has added a 'new' item to their basket as it grows in size. The chart below highlights an interesting finding - by the time one of our repeat shoppers has placed 15 items in their basket, it's almost 100% probable that one of those 15 items is new to that shopper.  
+
+The strength of this conclusion varies based on the filters applied above, but I still find this interesting and share some possible actions below.
 
 ``` r
 Reorders$Prob = (1 - cumprod(Reorders$Reordered))
