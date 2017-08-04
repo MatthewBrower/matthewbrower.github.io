@@ -44,7 +44,7 @@ ul.posts li {
     list-style: none;
 }
 
-language-r highlighter-rouge {
+.language-r {
     background-color: black;
     margin: 20px 0 20px 0;
     padding: 20px;
