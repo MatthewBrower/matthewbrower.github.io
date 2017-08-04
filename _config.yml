@@ -4,3 +4,9 @@ markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
 gems: 
   - jekyll-sitemap
+
+# Syntax highlighting
+highlighter: rouge
+kramdown:
+    input: GFM 
+    syntax_highlighter: rouge
