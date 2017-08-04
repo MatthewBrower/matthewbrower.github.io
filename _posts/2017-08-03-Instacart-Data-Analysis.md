@@ -1,4 +1,5 @@
-In May, Instacart released a portion of their [order history](https://www.instacart.com/datasets/grocery-shopping-2017) for ML research and competitions.  Because I currently work in Consumer Goods, this data really interested me because it provided a look into online shopping that I'm unable to obtain through our usual data sources in the office.
+## Instacart Analysis
+In May, Instacart released a portion of their [order history](https://www.instacart.com/datasets/grocery-shopping-2017) for ML research and competitions.  Because I currently work in Consumer Goods, this data really interested me because it provided a look into online grocery shopping that I'm unable to obtain through our usual data sources in the office.
 
 Fortunately, our team was recently able to hold a 3 hour 'hackathon' to work with this data &amp; learn about its contents.   Due to time constraints I pursued a more descriptive analysis; my findings from this analysis (and my one slide presentation) are shown below:
 
