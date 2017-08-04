@@ -39,14 +39,6 @@ Full_Dataset = Order_Products %>%
   left_join(Orders)
 ```
 
-    ## Joining, by = "product_id"
-
-    ## Joining, by = "aisle_id"
-
-    ## Joining, by = "department_id"
-
-    ## Joining, by = "order_id"
-
 Once I had a full dataset stored within one object in R, I was able to begin querying and investigating reorder habits.
 
 Although I explored a few extra questions during the hackathon itself, this post focuses on two of the more interesting ones:
