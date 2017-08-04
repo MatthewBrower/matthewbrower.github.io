@@ -73,7 +73,7 @@ I created a plot to show the proportion of items that were reordered based on th
 I think this is probably driven by two things:
 
 1.  Grocery staples like milk, soda, and produce are usually ordered early on in bigger transactions, and also
-2.  I *believe* smaller orders (for us cases like late night ice cream, Sunday beer run, etc.) would generally contain previously purchased, indulgence-related items.
+2.  I *believe* smaller orders (for use cases like late night ice cream, Sunday beer run, etc.) would generally contain previously purchased, indulgence-related items.
 
 ``` r
 Mean = Full_Dataset %>% 
