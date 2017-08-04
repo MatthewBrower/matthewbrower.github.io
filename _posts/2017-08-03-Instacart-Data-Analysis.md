@@ -1,6 +1,8 @@
-This post provides a super-fast overview of my work coming out of a hackathon I participated in recently. My team at Smucker's decided to spend 3 hours exploring Instacart's [recently released open data](https://www.instacart.com/datasets/grocery-shopping-2017). At the end of a 3 hour development period, each team member shared their work and presented to our team lead.
+In May, Instacart released a portion of their [order history](https://www.instacart.com/datasets/grocery-shopping-2017) for ML research and competitions.  Because I currently work in Consumer Goods, this data really interested me because it provided a look into online shopping that I'm unable to obtain through our usual data sources in the office.
 
-I didn't feel 3 hours was enough time to construct models or conduct machine learning work absent prior knowledge of the data. I decided to conduct a super brief analysis around repeat purchasing instead.
+Fortunately, our team was recently able to hold a 3 hour 'hackathon' to work with this data &amp; learn about its contents.   Due to time constraints I pursued a more descriptive analysis; my findings from this analysis (and my one slide presentation) are shown below:
+
+---
 
 I used elements of the `tidyverse` to wrangle and visualize this data.
 
@@ -10,7 +12,7 @@ library(dplyr)
 library(ggplot2)
 ```
 
-Due to Instacart's TOS on the use this data, I cannot include the data itself within my public repository. You will need to go out to the link above and download the data if you wish to replicate this on your own.
+Due to Instacart's data terms-of-service, I cannot include the data itself within my public repository. You will need to go out to the link above and download the data if you wish to replicate this analysis.
 
 ``` r
 Aisles = read_csv("/Users/Matthew/GitHub/InstacartHackaton/Data/aisles.csv",progress = F)
@@ -27,9 +29,7 @@ Order_Products_Train = read_csv("/Users/Matthew/GitHub/InstacartHackaton/Data/or
 Order_Products = bind_rows(Order_Products,Order_Products_Train)
 ```
 
-To quickly get my data in a workable format for analysis, I wrote the following (it's awful, I know) statement to join all of the different dataframes together.
-
-This was a fairly expensive operation, but thankfully the machine I was using had 32GB of RAM, which conveniently prevented roadblocks under the time crunch.
+To quickly get my data in a workable format for analysis, I joined all of my data frames together using the following `dplyr` chain.  As you might expect, this was an expensive operation, but the machine I used has 32GB of RAM, which conveniently prevented roadblocks under the time crunch.
 
 ``` r
 Full_Dataset = Order_Products %>% 
@@ -41,10 +41,12 @@ Full_Dataset = Order_Products %>%
 
 Once I had a full dataset stored within one object in R, I was able to begin querying and investigating reorder habits.
 
+---
+
 Although I explored a few extra questions during the hackathon itself, this post focuses on two of the more interesting ones:
 
--   What's the relationship between repeat purchases and the order in which items were placed in the basket?
--   At what point is it nearly certain that a firt-time item is in someone's basket?
+-   What's the relationship between repeat purchases (at the item level) and the order in which items were placed in the basket?
+-   At what point is it nearly certain that a first-time item is in someone's basket?
 
 Many users in the data were still fairly new, and that can interfere with repeat purchasing questions. In addition, some orders had hundreds of items in the basket, and we weren't interested in studying super-large baskets. As a result, we limited baskets to only include:
 
@@ -84,7 +86,7 @@ ggplot() +
 
 <img src="https://matthewbrower.github.io/img/Hackathon_Analysis_files/figure-markdown_github/unnamed-chunk-2-1.png">
 
-Another way to look at this is to quantify the cumulative probability a shopper has added a 'new' item to their basket as it grows in size. The chart below highlights an interesting finding - by the point one of our repeat shoppers has placed 15 items in their basket, it's almost 100% probable that one of those 15 items is new to that shopper.
+Another way to look at this is to quantify the cumulative probability a shopper has added a 'new' item to their basket as it grows in size. The chart below highlights an interesting finding - by the time one of our repeat shoppers has placed 15 items in their basket, it's almost 100% probable that one of those 15 items is new to that shopper.  The strength of this conclusion varies based on the filters applied above, but I still find this interesting and share some possible actions below.
 
 ``` r
 Reorders$Prob = (1 - cumprod(Reorders$Reordered))
@@ -98,8 +100,6 @@ ggplot() +
   scale_y_continuous(labels = scales::percent)
 ```
 <img src="https://matthewbrower.github.io/img/Hackathon_Analysis_files/figure-markdown_github/unnamed-chunk-3-1.png">
-
-The findings here are highly-dependent on our order count filtering from earlier: raising the filter from 10 previous tranactions to 15 or higher would pull this line downward & may drive a different conclusion.
 
 Knowing Instacart's mission of shopper convenience, I would take these learnings and recommend adjustments to their suggestive selling algorithm:
 
