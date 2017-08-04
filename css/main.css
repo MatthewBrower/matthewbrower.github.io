@@ -45,9 +45,9 @@ ul.posts li {
 }
 
 .language-r {
-    background-color: black;
-    margin: 20px 0 20px 0;
-    padding: 20px;
+    background: #d9d9d9;
+    margin: 5px 0 5px 0;
+    padding: 5px;
 } 
 
 .highlight  { background: #f2f2f2; }
