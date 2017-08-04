@@ -114,3 +114,7 @@ I would take my early findings and recommend adjustments to Instacart's recommen
 
 -   For shoppers early on in an online trip, I believe shopper convenience can be maximized by recommending grocery staples and items that shopper has routinely purchased in the past.
 -   Once a handful of items are in the basket, Instacart can then work to upsize orders by suggesting context-relevant (i.e. frequently cross-purchased with in-basket items) products that the shopper has NOT purchased in the past.
+
+See below for my final slide shared during the event (some extra material in this slide is not referenced above):
+
+<img src="https://matthewbrower.github.io/img/Hackathon_Analysis_files/figure-markdown_github/Slide1.PNG">
