@@ -23,7 +23,7 @@ Orders = read_csv("/Users/Matthew/GitHub/InstacartHackaton/Data/orders.csv",prog
 Products = read_csv("/Users/Matthew/GitHub/InstacartHackaton/Data/products.csv",progress = F)
 ```
 
-Prior orders were split into a test and training set for machine learning purposes. Since I was just conducting an exploratory analysis, I decided to get greedy and build a complete order history dataframe.
+Prior orders were split into a test and training set for machine learning purposes. Since I was just conducting an exploratory analysis, I decided to get greedy and combine both into a complete order history dataframe.
 
 ``` r
 Order_Products = read_csv("/Users/Matthew/GitHub/InstacartHackaton/Data/order_products__prior.csv",progress = F)
@@ -31,7 +31,7 @@ Order_Products_Train = read_csv("/Users/Matthew/GitHub/InstacartHackaton/Data/or
 Order_Products = bind_rows(Order_Products,Order_Products_Train)
 ```
 
-To quickly get my data in a workable format for analysis, I joined all of my data frames together using the following `dplyr` chain.  As you might expect, this was an expensive operation, but the machine I used has 32GB of RAM, which conveniently prevented roadblocks under the time crunch.
+To quickly get my data in a workable format for analysis, I joined all of my data frames together using the following `dplyr` chain.  As you might expect, this was an expensive operation, but the machine I used has 32GB of RAM, which prevented roadblocks under the time crunch.
 
 ``` r
 Full_Dataset = Order_Products %>% 
@@ -41,7 +41,7 @@ Full_Dataset = Order_Products %>%
   left_join(Orders)
 ```
 
-Once I had a full dataset stored within one object in R, I was able to begin querying and investigating reorder habits.
+Once I had a full dataset stored within a single dataframe, I was able to begin querying and investigating.
 
 ---
 ## Approach / Questions
@@ -108,7 +108,7 @@ ggplot() +
 <img src="https://matthewbrower.github.io/img/Hackathon_Analysis_files/figure-markdown_github/unnamed-chunk-3-1.png">
 
 ## Possible Outcomes
-Knowing Instacart's mission of shopper convenience, I would take these learnings and recommend adjustments to their suggestive selling algorithm:
+I would take these learnings and recommend adjustments to Instacart's recommender algorithm:
 
--   For shoppers early-on in their online trip, I believe 'convenience' can be maximized by recommending grocery staples and items that shopper has routinely purchased in the past.
+-   For shoppers early on in an online trip, I believe shopper convenience can be maximized by recommending grocery staples and items that shopper has routinely purchased in the past.
 -   Once a handful of items are in the basket, Instacart can then work to upsize orders by suggesting context-relevant (i.e. frequently cross-purchased with in-basket items) products that the shopper has NOT purchased in the past.
