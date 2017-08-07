@@ -64,7 +64,9 @@ ggplot() +
        title = "Time Between Attendee Arrivals")
 ```
 
-![](Event_Simulation_files/figure-markdown_github/unnamed-chunk-2-1.png) \#\# Simulations with `simmer`
+![](Event_Simulation_files/figure-markdown_github/unnamed-chunk-2-1.png) 
+
+## Simulations with `simmer`
 
 I discovered the `simmer` package in R through some Googling and decided to give it a try. My only previous experience with queue modeling was done through SAS Simulation Studio; I found this package to be a nice open source substitute.
 
@@ -85,16 +87,7 @@ Queue <- trajectory("Concert Attendees") %>%
   release("Booth", 1)
 ```
 
-Here's that that looks like when I plot it.
 
-``` r
-plot(Queue)
-```
-
-<!--html_preserve-->
-
-<script type="application/json" data-for="htmlwidget-5d619bed012dc8a9bcba">{"x":{"diagram":"digraph {\n\nnode [fontname = \"sans-serif\",\n     width = \"1.5\"]\n\n\n  \"1\" [label = \"Seize\", shape = \"box\", style = \"filled\", color = \"#7FC97F\", tooltip = \"resource: Booth, amount: 1\"] \n  \"2\" [label = \"Timeout\", shape = \"box\", style = \"solid\", color = \"black\", tooltip = \"delay: 0x7ff66c503950\"] \n  \"3\" [label = \"Release\", shape = \"box\", style = \"filled\", color = \"#7FC97F\", tooltip = \"resource: Booth, amount: 1\"] \n\"1\"->\"2\" [id = \"1\", color = \"black\", style = \"solid\"] \n\"2\"->\"3\" [id = \"2\", color = \"black\", style = \"solid\"] \n}","config":{"engine":null,"options":null}},"evals":[],"jsHooks":[]}</script>
-<!--/html_preserve-->
 Once I set up the environment itself, it was pretty easy to add an arrival generator for guests and to add 'resources' specify the number of servers at the kiosk. Simulations can be run using the `run` command, which I've done below. The output from this shows the status of the Ticket Kiosk at the end of a 4 hour run.
 
 ``` r
