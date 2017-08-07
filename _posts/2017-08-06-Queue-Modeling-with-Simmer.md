@@ -45,7 +45,7 @@ ggplot() +
        title = "Time Required to Scan Ticket, Apply Wristband, and Answer Questions")
 ```
 
-<img src="https://github.com/MatthewBrower/QueuingWorkflow/Event_Simulation_files/figure-markdown_github/unnamed-chunk-1-1.png">
+<img src="https://matthewbrower.github.io/img/Simulation/unnamed-chunk-1-1.png">
 
 ### Guest Intra-Arrival Time
 
