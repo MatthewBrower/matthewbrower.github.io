@@ -64,7 +64,7 @@ ggplot() +
        title = "Time Between Attendee Arrivals")
 ```
 
-![](Event_Simulation_files/figure-markdown_github/unnamed-chunk-2-1.png) 
+![](https://matthewbrower.github.io/img/Simulation/unnamed-chunk-2-1.png) 
 
 ## Simulations with `simmer`
 
