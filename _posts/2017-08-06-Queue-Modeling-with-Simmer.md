@@ -45,8 +45,7 @@ ggplot() +
        title = "Time Required to Scan Ticket, Apply Wristband, and Answer Questions")
 ```
 
-![](Event_Simulation_files/figure-markdown_github/unnamed-chunk-1-1.png)
-
+<img src="https://github.com/MatthewBrower/QueuingWorkflow/tree/master/Event_Simulation_files/figure-markdown_github/unnamed-chunk-1-1.png">
 ### Guest Intra-Arrival Time
 
 For the rate of guest arrivals, I relied on my experience working at the kiosk as a volunteer - but these assumptions are probably not reflective of the slower times toward the beginning and end of each day.
