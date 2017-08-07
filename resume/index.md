@@ -49,7 +49,7 @@ __Brand Management Intern, Jif Peanut Butter__, _Summer 2011_
 - Assessed the category impact of deep discounting by competitive national brands to further relationship with key retailers
 
 ### Jarrett Logistics Systems (Orrville, OH)
-__Brand Management Intern, Jif Peanut Butter__, _Summer 2010_
+__Sales & Marketing Intern__, _Summer 2010_
 
 - Led the redesign process for a website and promotional media revitalization project
 - Designed a prototype client relationship management system in an effort to reduce annual software costs
