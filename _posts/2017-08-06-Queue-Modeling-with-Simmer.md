@@ -122,13 +122,13 @@ When I run this with 3 servers, it seems like the system is (for the most part) 
 plot(envs, what = "resources", metric = "utilization", c("Booth"))
 ```
 
-![](Event_Simulation_files/figure-markdown_github/unnamed-chunk-7-1.png)
+![](https://matthewbrower.github.io/img/Simulation/unnamed-chunk-7-1.png)
 
 ``` r
 plot(envs, what = "resources", metric = "usage", c("Booth"), items = "server")
 ```
 
-![](Event_Simulation_files/figure-markdown_github/unnamed-chunk-7-2.png)
+![](Ehttps://matthewbrower.github.io/img/Simulation/unnamed-chunk-7-2.png)
 
 ``` r
 plot(envs, what = "arrivals", metric = "flow_time")
@@ -136,7 +136,7 @@ plot(envs, what = "arrivals", metric = "flow_time")
 
     ## `geom_smooth()` using method = 'gam'
 
-![](Event_Simulation_files/figure-markdown_github/unnamed-chunk-7-3.png)
+![](https://matthewbrower.github.io/img/Simulation/unnamed-chunk-7-3.png)
 
 I tried to see if I could get away with only staffing 2 servers, but the wait times were too long for the booth to be successful. On average, flow time is still below 5 minutes throughout...but there are some simulations where time climbs well above 10 minutes.
 
@@ -151,13 +151,13 @@ envs <- mclapply(1:50, function(i) {
 plot(envs, what = "resources", metric = "utilization", c("Booth"))
 ```
 
-![](Event_Simulation_files/figure-markdown_github/unnamed-chunk-9-1.png)
+![](https://matthewbrower.github.io/img/Simulation/unnamed-chunk-9-1.png)
 
 ``` r
 plot(envs, what = "resources", metric = "usage", c("Booth"), items = "server")
 ```
 
-![](Event_Simulation_files/figure-markdown_github/unnamed-chunk-9-2.png)
+![](https://matthewbrower.github.io/img/Simulation/unnamed-chunk-9-2.png)
 
 ``` r
 plot(envs, what = "arrivals", metric = "flow_time")
@@ -165,7 +165,7 @@ plot(envs, what = "arrivals", metric = "flow_time")
 
     ## `geom_smooth()` using method = 'gam'
 
-![](Event_Simulation_files/figure-markdown_github/unnamed-chunk-9-3.png)
+![](https://matthewbrower.github.io/img/Simulation/unnamed-chunk-9-3.png)
 
 So what?
 --------
