@@ -22,7 +22,7 @@ Matthew Brower
 ## Professional Experience
 
 ### The J.M. Smucker Company (Orrville, OH)
-__Senior Data Analyst__, _2014 - Present_
+__Senior Data Scientist__, _2014 - Present_
 
 - Created processes for the management & delivery of analytics projects for a new Advanced Analytics Center of Excellence
 - Presented findings & recommendations of analytics projects to audiences at top 10 US food retailers
@@ -73,7 +73,6 @@ __Miami University (Oxford, Ohio)__, _2009 - 2013_
 
 - BS; Marketing & Decision Science (GPA: 3.51)
 - University Honors Program; Business Honors Program
-- Co-founded + led the Miami University Club Table Tennis Team
 
 ___
 
@@ -90,5 +89,5 @@ __Council Member__, _2016 - Present_
 
 <!-- ### Footer
 
-Last updated: July 2017 -->
+Last updated: October 2017 -->
 
