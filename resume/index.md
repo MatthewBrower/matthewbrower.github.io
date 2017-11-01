@@ -22,49 +22,51 @@ Matthew Brower
 ## Professional Experience
 
 ### The J.M. Smucker Company (Orrville, OH)
-__Senior Data Scientist__, _2014 - Present_
+__Senior Data Scientist - Category Management__, _2016 - Present_
+- Generated two new Category Advisorships through insights uncovered by statistical and data mining techniques
+- Presented findings & recommendations of analytics projects to audiences at top 10 US grocery retailers
+- Piloted team's use of clustering techniques for store, product, and planogram segmentation projects
+- Designed & analyzed in-store tests with retail customers using matching techniques & linear models
+- Created time-series sales forecasts for consumption by external customers
 
+__Data Analyst - Enterprise Analytics & Insights__, _2014 - 2016_
 - Created processes for the management & delivery of analytics projects for a new Advanced Analytics Center of Excellence
-- Presented findings & recommendations of analytics projects to audiences at top 10 US food retailers
-- Developed custom analytic techniques that led to insights creating over $3MM in incremental annual revenue
 - Initiated recruiting relationships with key Universities & helped to establish an internal Data Science Community of Practice
+- Utilized linear optimization to adjust on-shelf inventory of major brands & minimize stockouts at individual stores
 
 ### Nielsen (Cincinnati, OH)
-__Research Analyst (BASES)__, _2013 - 2014_
+__Research Analyst - BASES Innovation Practice__, _2013 - 2014_
 
 - Delivered new product launch forecasts and consulting studies to multiple divisions of a Fortune 100 client
 - Created internal applications to increase analyst efficiency and improve company analytical capabilities
 - Led an internal research initiative that resulted in a 20 percent improvement in client forecast accuracy
 
 ### Nielsen (San Francisco, CA)
-__Research Analyst Intern__, _Summer 2012_
+__Research Analyst Intern - BASES Innovation Practice__, _Summer 2012_
 
 - Created a new reporting tool to assist with transitioning clients to a newly-developed volumetric forecasting system
 - Developed strategic insights and designed slide templates for an international project with a leading financial services firm
 
 ### The J.M. Smucker Company (Orrville, OH)
-__Brand Management Intern, Jif Peanut Butter__, _Summer 2011_
+__Brand Management Intern - Jif Peanut Butter__, _Summer 2011_
 
 - Presented a competitive analysis of digital marketing in the Peanut Butter Category with recommendations for the Jif brand
 - Assessed the category impact of deep discounting by competitive national brands to further relationship with key retailers
-
-### Jarrett Logistics Systems (Orrville, OH)
-__Sales & Marketing Intern__, _Summer 2010_
-
-- Led the redesign process for a website and promotional media revitalization project
-- Designed a prototype client relationship management system in an effort to reduce annual software costs
 
 ___
 
 ## Technical Profile
 
+### Statistics / Math:
+- Clustering, Regression, Time Series Models, Dimensionality Reduction, Machine Learning (Supervised, Unsupervised)
+
 ### Programming Languages:
 
-`R`, `Python`, `SQL`, `XML`, `HTML`, `Bash`
+- R, Python, SQL, HTML/CSS
 
 ### Software / Tools:
 
-`Tableau`, `JMP/SAS`, `SQL Server`, `Git`, `AWS EC2`, `Azure ML Studio`, `MS Office`
+- Tableau, JMP, SQL Server, Git, AWS EC2, Azure ML Studio, MS Office
 
 ___
 
