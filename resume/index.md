@@ -14,7 +14,7 @@ Matthew Brower
 
 ## Overview
 - Data Scientist currently working in the tech industry
-- 5+ years experience delivering custom analysis & data products to internal and external clients 
+- 5+ years experience delivering custom analysis & data products to internal and external clients
 - Expertise in interactive data visualization, data mining, and machine learning
 
 ***
@@ -24,8 +24,8 @@ Matthew Brower
 ### [Instacart](https://www.instacart.com/) (San Francisco, CA)
 __Senior Data Scientist - Retail Partnerships & Instacart Pickup__, _2018 - Present_
 - Led cross-functional Data Science initiatives for the development and launch of [Instacart Pickup](https://www.engadget.com/2018/11/07/instacart-grocery-pickup-service/)
-- Discovered trends in user activation & retention leading 2 major US retail partners to reduce pricing on Instacart 
-- Piloted the use of clustering techniques with retail partners to develop targeted marketing strategies 
+- Discovered trends in user activation & retention leading 2 major US retail partners to reduce pricing on Instacart
+- Established the use of clustering techniques with retail partners to develop targeted marketing strategies 
 
 ### [The J.M. Smucker Company](https://www.jmsmucker.com/) (Orrville, OH)
 __Senior Data Scientist - Category Management__, _2016 - 2018_
@@ -99,4 +99,3 @@ __Board of Trustees Member__, _2014 - 2018_
 <!-- ### Footer
 
 Last updated: January 2018 -->
-
