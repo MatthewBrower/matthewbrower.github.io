@@ -25,7 +25,7 @@ Matthew Brower
 __Senior Data Scientist - Retail Partnerships & Instacart Pickup__, _2018 - Present_
 - Led cross-functional Data Science initiatives for the development and launch of [Instacart Pickup](https://www.engadget.com/2018/11/07/instacart-grocery-pickup-service/)
 - Discovered trends in user activation & retention leading 2 major US retail partners to reduce pricing on Instacart
-- Established the use of clustering techniques with retail partners to develop targeted marketing strategies 
+- Piloted the use of customer-based clustering techniques with retail partners to develop targeted marketing strategies & measure their success
 
 ### [The J.M. Smucker Company](https://www.jmsmucker.com/) (Orrville, OH)
 __Senior Data Scientist - Category Management__, _2016 - 2018_
