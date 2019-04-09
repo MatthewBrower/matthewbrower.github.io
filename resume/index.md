@@ -63,7 +63,7 @@ ___
 ## Technical Profile
 
 ### Statistics / Math:
-- Clustering, Regression, Time Series Models, Dimensionality Reduction, Machine Learning (Supervised, Unsupervised)
+- Clustering, Regression, Time Series Models, A/B Testing, Machine Learning (Supervised, Unsupervised)
 
 ### Programming Languages:
 
