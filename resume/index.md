@@ -15,7 +15,7 @@ Matthew Brower
 ## Overview
 - Data Scientist currently working in the tech industry
 - 5+ years experience delivering custom analysis & data products to internal and external clients
-- Expertise in interactive data visualization, data mining, and machine learning
+- Expertise in interactive data visualization, data mining, and statistics
 
 ***
 
