@@ -14,7 +14,7 @@ Matthew Brower
 
 ## Overview
 - Data science / tech professional
-- 5+ years experience delivering custom analysis & data products to internal and external stakeholders
+- 6+ years experience delivering custom analysis & data products to internal and external stakeholders
 - Expertise in data visualization, presentations, data mining, and statistics
 
 ***
@@ -27,7 +27,7 @@ __Data Analyst - Search [Google.com, Maps, API]__, _2019 - Present_
 
 ### [Instacart](https://www.instacart.com/) (San Francisco, CA)
 __Senior Data Scientist - Retail Partnerships & Instacart Pickup__, _2018 - 2019_
-- Led cross-functional Data Science initiatives for the development and launch of [Instacart Pickup](https://www.engadget.com/2018/11/07/instacart-grocery-pickup-service/)
+- Led cross-functional Data Science initiatives for the development and launch of Instacart Pickup
 - Piloted the use of customer-based clustering techniques with retail partners to develop targeted marketing strategies & measure their success
 
 ### [The J.M. Smucker Company](https://www.jmsmucker.com/) (Orrville, OH)
@@ -67,15 +67,24 @@ ___
 ## Technical Profile
 
 ### Statistics / Math:
-- Clustering, Regression, Time Series Models, A/B Testing, Machine Learning (Supervised, Unsupervised)
+- Clustering, Linear Models, Time Series, A/B Testing, Machine Learning, Simulation, Optimization
 
 ### Programming Languages:
 
-- R, SQL, Python
+- R, SQL, Python, Bash
 
-### Software / Tools:
+### Other Software / Tools:
 
-- Tableau, git, AWS, MS Office
+- Tableau, git, AWS
+
+___
+
+## Talks
+### [Using Python from Within R](https://github.com/MatthewBrower/rladies_july2019_talk) (San Francisco, CA)
+- Lightning talk for the [San Francisco RLadies](https://www.meetup.com/rladies-san-francisco/) meetup group
+
+### [Using Python & R in Harmony](https://github.com/MatthewBrower/pyohio_reticulate_rpy2) (Columbus, OH)
+- Breakout session at the [PyOhio 2019](https://www.meetup.com/rladies-san-francisco/) conference
 
 ___
 
@@ -101,4 +110,4 @@ __Board of Trustees Member__, _2014 - 2018_
 
 <!-- ### Footer
 
-Last updated: January 2018 -->
+Last updated: August 2019 -->
