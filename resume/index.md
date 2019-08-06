@@ -81,11 +81,15 @@ ___
 ___
 
 ## Talks
+### [Using Python & R in Harmony](https://github.com/MatthewBrower/pyohio_reticulate_rpy2) (Columbus, OH)
+__Ohio State University__, _July 2019_
+- Breakout session at the [PyOhio 2019](https://www.pyohio.org/2019/) conference
+
 ### [Using Python from Within R](https://github.com/MatthewBrower/rladies_july2019_talk) (San Francisco, CA)
+__Domino Data Labs__, _July 2019_
 - Lightning talk for the [San Francisco RLadies](https://www.meetup.com/rladies-san-francisco/) meetup group
 
-### [Using Python & R in Harmony](https://github.com/MatthewBrower/pyohio_reticulate_rpy2) (Columbus, OH)
-- Breakout session at the [PyOhio 2019](https://www.meetup.com/rladies-san-francisco/) conference
+
 
 ___
 
