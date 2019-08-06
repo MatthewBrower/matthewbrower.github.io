@@ -22,7 +22,7 @@ Matthew Brower
 ## Professional Experience
 
 ### [Google](https://www.google.com) (San Francisco, CA)
-__Data Analyst - Search (Google.com, Maps, API)__, _2019 - Present_
+__Data Analyst - Search [Google.com, Maps, API]__, _2019 - Present_
 - First analyst hire on new team formed to advise Finance stakeholders on trends & insights via analytics
 
 ### [Instacart](https://www.instacart.com/) (San Francisco, CA)
