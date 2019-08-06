@@ -13,16 +13,20 @@ Matthew Brower
 ---
 
 ## Overview
-- Data Scientist currently working in the tech industry
-- 5+ years experience delivering custom analysis & data products to internal and external clients
-- Expertise in interactive data visualization, data mining, and statistics
+- Data science / tech professional
+- 5+ years experience delivering custom analysis & data products to internal and external stakeholders
+- Expertise in data visualization, presentations, data mining, and statistics
 
 ***
 
 ## Professional Experience
 
+### [Google](https://www.google.com) (San Francisco, CA)
+__Data Analyst - Search (Google.com, Maps, API)__, _2019 - Present_
+- First analyst hire on new team formed to advise Finance stakeholders on trends & insights via analytics
+
 ### [Instacart](https://www.instacart.com/) (San Francisco, CA)
-__Senior Data Scientist - Retail Partnerships & Instacart Pickup__, _2018 - Present_
+__Senior Data Scientist - Retail Partnerships & Instacart Pickup__, _2018 - 2019_
 - Led cross-functional Data Science initiatives for the development and launch of [Instacart Pickup](https://www.engadget.com/2018/11/07/instacart-grocery-pickup-service/)
 - Piloted the use of customer-based clustering techniques with retail partners to develop targeted marketing strategies & measure their success
 
