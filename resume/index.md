@@ -22,8 +22,9 @@ Matthew Brower
 ## Professional Experience
 
 ### [Google](https://www.google.com) (San Francisco, CA)
-__Data Analyst - Search [Google.com, Maps, API]__, _2019 - Present_
+__Data Analyst - Search__, _2019 - Present_
 - First analyst hire on new team formed to advise Finance stakeholders on trends & insights via analytics
+- Focus areas include core Google.com, Google Maps, and API-based search
 
 ### [Instacart](https://www.instacart.com/) (San Francisco, CA)
 __Senior Data Scientist - Retail Partnerships & Instacart Pickup__, _2018 - 2019_
