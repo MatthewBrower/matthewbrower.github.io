@@ -23,8 +23,9 @@ Matthew Brower
 
 ### [Google](https://www.google.com) (San Francisco, CA)
 __Data Analyst - Search__, _2019 - Present_
-- First analyst hire on new team formed to advise Finance stakeholders on trends & insights via analytics
-- Focus areas include core Google.com, Google Maps, and API-based search
+- Collaborate on key product initiatives with Search PMs, Engineers, and other Quantitative analysts
+- Perform data analysis to uncover key insights about Search and its ecosystem
+- Use analytical insights to solve important business problems and formulate robust, actionable reocmmendations for senior leadership.
 
 ### [Instacart](https://www.instacart.com/) (San Francisco, CA)
 __Senior Data Scientist - Retail Partnerships & Instacart Pickup__, _2018 - 2019_
