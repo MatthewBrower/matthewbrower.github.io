@@ -14,7 +14,7 @@ Matthew Brower
 
 ## Overview
 - Data science / tech professional
-- 6+ years experience delivering custom analysis & data products to internal and external stakeholders
+- 7+ years experience delivering custom analysis & data products to internal and external stakeholders
 - Expertise in data visualization, presentations, data mining, and statistics
 
 ***
