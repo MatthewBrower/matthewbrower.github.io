@@ -22,10 +22,10 @@ Matthew Brower
 ## Professional Experience
 
 ### [Google](https://www.google.com) (San Francisco, CA)
-__Data Analyst - Search__, _2019 - Present_
-- Collaborate on key Search Product initiatives with PMs, Engineers, and other quantitative analysts
-- Leverage product data to uncover key insights about Search and its ecosystem across the Internet
-- Use analytical insights to solve important business problems by formulating robust, actionable reocmmendations for senior leaders
+__Quantitative Analyst - Search Strategy & Analytics__, _2019 - Present_
+- Collaborate on key Search initiatives with Product Leaders, Engineers, and other Analysts
+- Leverage product data to uncover key insights about Search & Google's ecosystem across the Internet
+- Solve business problems by formulating robust, actionable recommendations for senior leaders
 
 ### [Instacart](https://www.instacart.com/) (San Francisco, CA)
 __Senior Data Scientist - Retail Partnerships & Instacart Pickup__, _2018 - 2019_
