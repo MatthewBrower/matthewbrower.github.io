@@ -26,7 +26,7 @@ Matthew Brower
 __Insights Lead - Search Strategy & Analytics__, _2021 - Present_
 - Advise senior leaders on the implications of their strategies & launches; identify opportunities to best serve Search users
 - Socialize an understanding of Search trends to stakeholders including Product, Engineering, Finance and Marketing
-- Form & lead team of two analysts conducting ad hoc analysis on strategic slices of Google's Search business
+- Form & lead team of two additional analysts, tasked with conducting ad hoc analysis on strategic slices of Google's Search business
 
 __Quantitative Analyst - Search Strategy & Analytics__, _2019 - 2021_
 - Leveraged product data to uncover insights about Search & Google's product ecosystem, with emphasis on monetization
