@@ -13,19 +13,24 @@ Matthew Brower
 ---
 
 ## Overview
-- Data science / tech professional
-- 7+ years experience delivering custom analysis & data products to internal and external stakeholders
+- Data science & analytics professional
+- Over 8 years of experience building data products & conducting strategic analysis
 - Expertise in data visualization, presentations, data mining, and statistics
+- Extensive experience presenting to internal and external executive audiences
 
 ***
 
 ## Professional Experience
 
 ### [Google](https://www.google.com) (San Francisco, CA)
-__Quantitative Analyst - Search Strategy & Analytics__, _2019 - Present_
-- Collaborate on key Search initiatives with Product Leaders, Engineers, and other Analysts
-- Leverage product data to uncover key insights about Search & Google's ecosystem across the Internet
-- Solve business problems by formulating robust, actionable recommendations for senior leaders
+__Insights Lead - Search Strategy & Analytics__, _2021 - Present_
+- Advise senior leaders on the implications of their strategies & launches; identify opportunities to best serve Search users
+- Socialize an understanding of Search trends to stakeholders including Product, Engineering, Finance and Marketing
+- Lead team of two analysts conducting ad hoc analysis on strategic slices of Google's Search business
+
+__Quantitative Analyst - Search Strategy & Analytics__, _2019 - 2021_
+- Leveraged product data to uncover insights about Search & Google's product ecosystem, with emphasis on monetization
+- Solved business problems by formulating robust, actionable recommendations for senior leaders
 
 ### [Instacart](https://www.instacart.com/) (San Francisco, CA)
 __Senior Data Scientist - Retail Partnerships & Instacart Pickup__, _2018 - 2019_
