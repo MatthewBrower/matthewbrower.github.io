@@ -23,7 +23,7 @@ Matthew Brower
 ## Professional Experience
 
 ### [Google](https://www.google.com) (San Francisco, CA)
-__Insights Lead - Search Strategy & Analytics__, _2021 - Present_
+__Data Science Manager - Search Strategy & Analytics__, _2021 - Present_
 - Advise senior leaders on the implications of their strategies & launches; identify opportunities to best serve Search users
 - Socialize an understanding of Search trends to stakeholders including Product, Engineering, Finance and Marketing
 - Form & lead team of two additional analysts, tasked with conducting ad hoc analysis on strategic slices of Google's Search business
